@@ -1,3 +1,3 @@
 # Joel
 Data Science Capstone Project
-Joel Joel where ae you?
+Joel Joel where are you?
